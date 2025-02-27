@@ -18,8 +18,6 @@ The Project includes a python function which generates a synthetic checkboard im
 
 	pip install -r requirements.txt
 
-### **Running the Project**
-
 ## How to Run the Project
 
 To execute the script, 
@@ -35,8 +33,6 @@ To execute the script,
 
 	pip install 'missing_module'
 
-### **Contributing**
-
 ## Contributing
 1. Fork the repository.
 2. Create a new branch,
@@ -46,13 +42,13 @@ To execute the script,
 
 3. Make your changes and commit:
 	
-	git add checkboard.py
+	git add checkboard.py  
 	git commit -m "Added new feature"
 
 4. (Optional) Merge Back to **Main**.
 
-	git checkout main
-	git merge feature-branch
+	git checkout main  
+	git merge feature-branch  
 	git push origin main
 
 
